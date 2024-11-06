@@ -1,12 +1,11 @@
 package com.dassoftware.rest.webservices.restful_web_services.controller;
 
+import com.dassoftware.rest.webservices.restful_web_services.business.HelloWorldBean;
 import com.dassoftware.rest.webservices.restful_web_services.dao.User;
-import com.dassoftware.rest.webservices.restful_web_services.dao.UserRepository;
 import com.dassoftware.rest.webservices.restful_web_services.service.SocialMediaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
