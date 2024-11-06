@@ -1,4 +1,4 @@
-package com.dassoftware.rest.webservices.restful_web_services.hello;
+package com.dassoftware.rest.webservices.restful_web_services.controller;
 
 public class HelloWorldBean {
     private String message;
